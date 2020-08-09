@@ -1,4 +1,4 @@
-console.log('cLIENT SIDE JAVASCRIPT IS LOADED ')
+
 
 // fetch api-> browser based api-> will not work for node
 // use dummy api
